@@ -5,5 +5,5 @@ Eat, grow, and avoid your own tail in the addictive classic snake game. Control 
 * Cross-Platform Compatibility: Game transcends platform limitations, enabling you to enjoy the game seamlessly across a variety of devices whether you're playing on a PC, web or mobile device
 * SOLID Design Principles: this game adheres to SOLID design principles, provides high-quality code that is modular, flexible, and easy to maintain
 # Links
-* You can find builds [here](https://drive.google.com/drive/folders/1oLcFmhvy5crNxloZ9W57igTKHvjR_Obg?usp=sharing)
-* Web build
+* [Builds](https://drive.google.com/drive/folders/1oLcFmhvy5crNxloZ9W57igTKHvjR_Obg?usp=sharing)
+* Web
