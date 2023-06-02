@@ -6,4 +6,4 @@ Eat, grow, and avoid your own tail in the addictive classic snake game. Control 
 * SOLID Design Principles: this game adheres to SOLID design principles, provides high-quality code that is modular, flexible, and easy to maintain
 # Links
 * [Builds](https://drive.google.com/drive/folders/1oLcFmhvy5crNxloZ9W57igTKHvjR_Obg?usp=sharing)
-* Web
+* [Web](https://zaveruhaivan.itch.io/snake)
